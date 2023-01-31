@@ -1,0 +1,39 @@
+
+
+.card {
+  border: 1px solid #edebe9 !important;
+  border-radius: 1em !important;
+}
+
+#btn-card-1 {
+  visibility: hidden;
+  background-color: #2A3342 !important;
+  color: #f6f5fb !important;
+}
+
+#btn-card-2 {
+  visibility: hidden;
+  background-color: #2A3342 !important;
+  color: #f6f5fb !important;
+}
+
+#btn-card-3 {
+  visibility: hidden;
+  background-color: #2A3342 !important;
+  color: #f6f5fb !important;
+}
+
+#btn-card-4 {
+  visibility: hidden;
+  background-color: #2A3342 !important;
+  color: #f6f5fb !important;
+}
+
+
+
+main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
